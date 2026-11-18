@@ -9,8 +9,8 @@
 
 ---
 
-### 🚀 Tentang Saya
-- 🔭 Saat ini sedang fokus mengembangkan aplikasi web dan mobile menggunakan **Laravel**, **Node.js**, dan **Flutter**.
-- 🏫 Mahasiswa Sistem Informasi di Universitas Multi Data Palembang.
-- ⚡ Suka mengeksplorasi arsitektur basis data, RESTful API, dan antarmuka pengguna yang interaktif.
-- 📫 Cara menghubungi saya: **tannjungan00@gmail.com**
+### 🚀 About Me
+- 🔭 Currently focused on developing web and mobile applications using **Laravel**, **Node.js**, and **Flutter**.
+- 🏫 Information Systems student at Universitas Multi Data Palembang.
+- ⚡ Passionate about exploring database architecture, RESTful APIs, and interactive user interfaces.
+- 📫 How to reach me: **tannjungan00@gmail.com**
