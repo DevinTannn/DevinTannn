@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevinTannn&color=blueviolet&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Open_To_Work-2ea44f?style=for-the-badge" alt="Status" />
-  <a href="[mailto:tannjungan00@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tannjungan00@gmail.com)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tannjungan00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </a>
 </p>
 
