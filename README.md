@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevinTannn&color=blueviolet&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Open_To_Work-2ea44f?style=for-the-badge" alt="Status" />
-  <a href="mailto:tannjungan00@gmail.com" target="_blank">
+  <a href="[mailto:tannjungan00@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tannjungan00@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <br/>
-  <img src="https://img.shields.id/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
